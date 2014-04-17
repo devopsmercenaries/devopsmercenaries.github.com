@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+
+    <title>Devops Mercenaries by devopsmercenaries</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>Devops Mercenaries</h1>
+        <h2>Devops Mercenaries presentations pages</h2>
+
+        <section id="links">
+          <a href="https://github.com/devopsmercenaries" class="btn btn-github"><span class="icon"></span>View on GitHub</a><br/>
+          <a href="https://twitter.com/DevopsMercs" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @DevopsMercs</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+<<<<<<< HEAD
+        <p>1 : 10h40 - 11h30 Devops Brainstorming / Kanban des questions à répondre dans la journée</p>
+      </section>
+      <section id="main_content">
+        <p>2 : 11h45 - 12h35 Expériences heureuses/malheureuses avec DevOps</p>
+      </section>
+      <section id="main_content">
+        <p>3 : 13h30 - 14h20 DevOps : Quels outils et pour quoi faire ?</p>
+      </section>
+      <section id="main_content">
+        <p>4 : 14h35 - 15h25 DevOps : Culture du Delivery</p>
+      </section>
+      <section id="main_content">
+        <p>5 : 15h40 - 16h30 DevOps : je commence lundi !</p>
+=======
+        <p>Devops Mercenaries @Devoxx</p>
+>>>>>>> Devoxx 2014
+      </section>
+    </div>
+    
+  </body>
+</html>
